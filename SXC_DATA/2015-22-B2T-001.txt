@@ -1,0 +1,34 @@
+Title : iPhone sex skills app
+PID - 22
+
+Odesk/Hourly 
+=============
+40 hours a week
+
+Timeline shared with client : 5-6 weeks(Approx)
+
+Your Task:
+================
+Task is to develop an iPhone application which would focus on Tantric Sex awareness among the users. Please refer understanding document as it has each and every point explained.Also, consider the mockups that client will send by Monday.
+For the time being, you can get started with admin panel and api development. Client has already shared some mockups, and will also provide psd's by friday.
+
+B2T Meeting - Ketan and Himanshu Rawal
+Date: 4 June 2015 
+
+Odesk Details
+======================
+edtrigma -- T51nxU3novJQ
+Email - taniya@trigma.info // AugTtan#03
+
+Client Details:
+========================
+Client's Skype - theodor.randas
+Skype - trigma.101 - July@#2015
+
+Link to view mockups - https://projects.invisionapp.com/d/main#/projects/3425937
+
+If you are unable to view the mockups, login to invisionapp.com, and use below mentioned details. 
+
+ taniya@trigma.info // AugTtan#03
+
+Then you will be able to find the mockups. 
